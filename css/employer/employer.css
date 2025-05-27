@@ -1,0 +1,12 @@
+
+.bg-color-blue {
+  background: linear-gradient(180deg, #002f86, #00349a, #0156f0);
+  min-height: 100vh;
+  color: white;
+}
+
+
+.custom-blue {
+  background: linear-gradient(180deg, #002f86, #00349a, #0156f0);
+
+}
